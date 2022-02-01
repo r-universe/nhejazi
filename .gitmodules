@@ -26,6 +26,11 @@
 	url = https://github.com/tlverse/sl3
 	branch = devel
 	registered = false
+[submodule "tmle3"]
+	path = tmle3
+	url = https://github.com/tlverse/tmle3
+	branch = master
+	registered = false
 [submodule "txshift"]
 	path = txshift
 	url = https://github.com/nhejazi/txshift

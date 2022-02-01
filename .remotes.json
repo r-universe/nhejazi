@@ -12,10 +12,30 @@
     "from": "medoutcon"
   },
   {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["medshift", "sl3"],
+    "from": "medshift"
+  },
+  {
     "package": "sl3",
     "url": "https://github.com/tlverse/sl3",
     "via": ["medoutcon"],
     "branch": "devel",
     "from": "medoutcon"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["medshift"],
+    "branch": "master",
+    "from": "medshift"
+  },
+  {
+    "package": "tmle3",
+    "url": "https://github.com/tlverse/tmle3",
+    "via": ["medshift"],
+    "branch": "master",
+    "from": "medshift"
   }
 ]
