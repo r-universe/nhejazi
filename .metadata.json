@@ -1,0 +1,20 @@
+[
+  {
+    "package": "haldensify",
+    "oncran": true
+  },
+  {
+    "package": "nima",
+    "oncran": true
+  },
+  {
+    "package": "txshift",
+    "oncran": true
+  },
+  {
+    "package": "biotmle"
+  },
+  {
+    "package": "methyvim"
+  }
+]
