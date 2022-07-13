@@ -23,3 +23,8 @@
 	url = https://github.com/nhejazi/biotmle
 	shallow = true
 	registered = true
+[submodule "methyvim"]
+	path = methyvim
+	url = https://github.com/nhejazi/methyvim
+	shallow = true
+	registered = true
