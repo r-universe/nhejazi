@@ -1,5 +1,9 @@
 [
   {
+    "package": "haldensify",
+    "oncran": true
+  },
+  {
     "package": "nima",
     "oncran": true
   },
