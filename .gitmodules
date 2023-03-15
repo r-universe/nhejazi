@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "haldensify"]
-	path = haldensify
-	url = https://github.com/nhejazi/haldensify
-	shallow = true
-	registered = true
-[submodule "nima"]
-	path = nima
-	url = https://github.com/nhejazi/nima
-	shallow = true
-	registered = true
 [submodule "txshift"]
 	path = txshift
 	url = https://github.com/nhejazi/txshift
 	shallow = true
 	registered = true
+[submodule "haldensify"]
+	path = haldensify
+	url = https://github.com/nhejazi/haldensify
+	shallow = true
+	registered = true
 [submodule "biotmle"]
 	path = biotmle
 	url = https://github.com/nhejazi/biotmle
+	shallow = true
+	registered = true
+[submodule "nima"]
+	path = nima
+	url = https://github.com/nhejazi/nima
 	shallow = true
 	registered = true
