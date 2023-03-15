@@ -1,17 +1,17 @@
 [
   {
-    "package": "txshift",
-    "oncran": true
+    "package": "biotmle"
   },
   {
     "package": "haldensify",
     "oncran": true
   },
   {
-    "package": "biotmle"
+    "package": "nima",
+    "oncran": true
   },
   {
-    "package": "nima",
+    "package": "txshift",
     "oncran": true
   }
 ]
