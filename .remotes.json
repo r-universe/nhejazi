@@ -1,0 +1,21 @@
+[
+  {
+    "package": "hal9001",
+    "url": "https://github.com/tlverse/hal9001",
+    "via": ["medoutcon"],
+    "from": "medoutcon"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nhejazi/haldensify",
+    "via": ["medoutcon", "sl3"],
+    "from": "medoutcon"
+  },
+  {
+    "package": "sl3",
+    "url": "https://github.com/tlverse/sl3",
+    "via": ["medoutcon"],
+    "branch": "devel",
+    "from": "medoutcon"
+  }
+]

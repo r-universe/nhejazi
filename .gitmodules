@@ -5,6 +5,10 @@
 [submodule "biotmle"]
 	path = biotmle
 	url = https://github.com/nhejazi/biotmle
+[submodule "hal9001"]
+	path = hal9001
+	url = https://github.com/tlverse/hal9001
+	registered = false
 [submodule "haldensify"]
 	path = haldensify
 	url = https://github.com/nhejazi/haldensify
@@ -14,6 +18,11 @@
 [submodule "nima"]
 	path = nima
 	url = https://github.com/nhejazi/nima
+[submodule "sl3"]
+	path = sl3
+	url = https://github.com/tlverse/sl3
+	branch = devel
+	registered = false
 [submodule "txshift"]
 	path = txshift
 	url = https://github.com/nhejazi/txshift
