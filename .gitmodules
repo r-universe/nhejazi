@@ -15,6 +15,9 @@
 [submodule "medoutcon"]
 	path = medoutcon
 	url = https://github.com/nhejazi/medoutcon
+[submodule "medshift"]
+	path = medshift
+	url = https://github.com/nhejazi/medshift
 [submodule "nima"]
 	path = nima
 	url = https://github.com/nhejazi/nima
