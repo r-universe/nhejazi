@@ -1,10 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nhejazi/nhejazi.r-universe.dev
 	branch = HEAD
+[submodule "biotmle"]
+	path = biotmle
+	url = https://github.com/nhejazi/biotmle
 [submodule "haldensify"]
 	path = haldensify
 	url = https://github.com/nhejazi/haldensify
+[submodule "medoutcon"]
+	path = medoutcon
+	url = https://github.com/nhejazi/medoutcon
 [submodule "nima"]
 	path = nima
 	url = https://github.com/nhejazi/nima
