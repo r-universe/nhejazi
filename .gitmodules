@@ -24,7 +24,6 @@
 [submodule "sl3"]
 	path = sl3
 	url = https://github.com/tlverse/sl3
-	branch = devel
 	registered = false
 [submodule "tmle3"]
 	path = tmle3
